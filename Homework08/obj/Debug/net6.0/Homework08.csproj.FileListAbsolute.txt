@@ -1,0 +1,15 @@
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\Homework08.csproj.AssemblyReference.cache
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\Homework08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\Homework08.AssemblyInfoInputs.cache
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\Homework08.AssemblyInfo.cs
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\Homework08.csproj.CoreCompileInputs.cache
+C:\Users\Кот\Desktop\Seminar\Homework08\bin\Debug\net6.0\Homework08.exe
+C:\Users\Кот\Desktop\Seminar\Homework08\bin\Debug\net6.0\Homework08.deps.json
+C:\Users\Кот\Desktop\Seminar\Homework08\bin\Debug\net6.0\Homework08.runtimeconfig.json
+C:\Users\Кот\Desktop\Seminar\Homework08\bin\Debug\net6.0\Homework08.dll
+C:\Users\Кот\Desktop\Seminar\Homework08\bin\Debug\net6.0\Homework08.pdb
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\Homework08.dll
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\refint\Homework08.dll
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\Homework08.pdb
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\Homework08.genruntimeconfig.cache
+C:\Users\Кот\Desktop\Seminar\Homework08\obj\Debug\net6.0\ref\Homework08.dll
