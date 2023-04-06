@@ -1,0 +1,15 @@
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\bin\Debug\net6.0\Seen01_SguareNumber.exe
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\bin\Debug\net6.0\Seen01_SguareNumber.deps.json
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\bin\Debug\net6.0\Seen01_SguareNumber.runtimeconfig.json
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\bin\Debug\net6.0\Seen01_SguareNumber.dll
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\bin\Debug\net6.0\Seen01_SguareNumber.pdb
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\Seen01_SguareNumber.csproj.AssemblyReference.cache
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\Seen01_SguareNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\Seen01_SguareNumber.AssemblyInfoInputs.cache
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\Seen01_SguareNumber.AssemblyInfo.cs
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\Seen01_SguareNumber.csproj.CoreCompileInputs.cache
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\Seen01_SguareNumber.dll
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\refint\Seen01_SguareNumber.dll
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\Seen01_SguareNumber.pdb
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\Seen01_SguareNumber.genruntimeconfig.cache
+C:\Users\Кот\Desktop\Seminar\Seen01_SguareNumber\obj\Debug\net6.0\ref\Seen01_SguareNumber.dll
