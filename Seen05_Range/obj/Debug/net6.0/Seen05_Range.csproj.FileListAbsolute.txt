@@ -1,0 +1,15 @@
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\bin\Debug\net6.0\Seen05_Range.exe
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\bin\Debug\net6.0\Seen05_Range.deps.json
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\bin\Debug\net6.0\Seen05_Range.runtimeconfig.json
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\bin\Debug\net6.0\Seen05_Range.dll
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\bin\Debug\net6.0\Seen05_Range.pdb
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\Seen05_Range.csproj.AssemblyReference.cache
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\Seen05_Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\Seen05_Range.AssemblyInfoInputs.cache
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\Seen05_Range.AssemblyInfo.cs
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\Seen05_Range.csproj.CoreCompileInputs.cache
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\Seen05_Range.dll
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\refint\Seen05_Range.dll
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\Seen05_Range.pdb
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\Seen05_Range.genruntimeconfig.cache
+C:\Users\Кот\Desktop\Seminar\Seen05_Range\obj\Debug\net6.0\ref\Seen05_Range.dll

@@ -1,0 +1,15 @@
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\Seen07_Last.csproj.AssemblyReference.cache
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\Seen07_Last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\Seen07_Last.AssemblyInfoInputs.cache
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\Seen07_Last.AssemblyInfo.cs
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\Seen07_Last.csproj.CoreCompileInputs.cache
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\bin\Debug\net6.0\Seen07_Last.exe
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\bin\Debug\net6.0\Seen07_Last.deps.json
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\bin\Debug\net6.0\Seen07_Last.runtimeconfig.json
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\bin\Debug\net6.0\Seen07_Last.dll
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\bin\Debug\net6.0\Seen07_Last.pdb
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\Seen07_Last.dll
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\refint\Seen07_Last.dll
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\Seen07_Last.pdb
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\Seen07_Last.genruntimeconfig.cache
+C:\Users\Кот\Desktop\Seminar\Seen07_Last\obj\Debug\net6.0\ref\Seen07_Last.dll
